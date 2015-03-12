@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.PriorityTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.109 sec
+testOffInt(org.apache.log4j.PriorityTest)  Time elapsed: 0.015 sec
+testFatalInt(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testErrorInt(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testWarnInt(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testInfoInt(org.apache.log4j.PriorityTest)  Time elapsed: 0.011 sec
+testDebugInt(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testAllInt(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testFatal(org.apache.log4j.PriorityTest)  Time elapsed: 0.003 sec
+testERROR(org.apache.log4j.PriorityTest)  Time elapsed: 0.001 sec
+testWARN(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testINFO(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testDEBUG(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testEqualsNull(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testEqualsLevel(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testGetAllPossiblePriorities(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testToPriorityString(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testToPriorityInt(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testToPriorityStringPriority(org.apache.log4j.PriorityTest)  Time elapsed: 0 sec
+testToPriorityIntPriority(org.apache.log4j.PriorityTest)  Time elapsed: 0.001 sec
+testDotlessLowerI(org.apache.log4j.PriorityTest)  Time elapsed: 0.005 sec
+testDottedLowerI(org.apache.log4j.PriorityTest)  Time elapsed: 0.001 sec

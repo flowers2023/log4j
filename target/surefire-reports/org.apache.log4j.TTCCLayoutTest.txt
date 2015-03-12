@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.TTCCLayoutTest
+-------------------------------------------------------------------------------
+Tests run: 30, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.214 sec
+testFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.065 sec
+testGetSetThreadPrinting(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.001 sec
+testGetSetCategoryPrefixing(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testGetSetContextPrinting(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testNullDateFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.001 sec
+testRelativeTimeDateFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testDateFormatOption(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testTimeZoneOption(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testGetOptionStrings(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetOptionDateFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetOptionTimeZone(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.004 sec
+testSetDateFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.032 sec
+testSetTimeZone(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetDateFormatNull(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetDateFormatNullString(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetDateFormatRelative(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetDateFormatAbsolute(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetDateFormatDateTime(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.001 sec
+testSetDateFormatISO8601(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testSetDateFormatSimple(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.006 sec
+testActivateOptions(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.008 sec
+testSetDateFormatWithFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testISO8601Format(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.001 sec
+testDateTimeFormat(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0.003 sec
+testLineSep(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testLineSepLen(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testGetContentType(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testIgnoresThrowable(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testGetHeader(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec
+testGetFooter(org.apache.log4j.TTCCLayoutTest)  Time elapsed: 0 sec

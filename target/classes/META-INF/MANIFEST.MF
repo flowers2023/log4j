@@ -1,0 +1,58 @@
+Manifest-Version: 1.0
+Export-Package: org.apache.log4j.net;uses:="org.apache.log4j,org.apach
+ e.log4j.spi,javax.naming,org.apache.log4j.helpers,javax.jms,org.apach
+ e.log4j.xml,javax.mail,javax.mail.internet,org.w3c.dom,javax.jmdns";v
+ ersion="1.2.18.SNAPSHOT",org.apache.log4j.jmx;uses:="org.apache.log4j
+ ,javax.management,com.sun.jdmk.comm,org.apache.log4j.helpers,org.apac
+ he.log4j.spi";version="1.2.18.SNAPSHOT",org.apache.log4j.jdbc;uses:="
+ org.apache.log4j,org.apache.log4j.spi";version="1.2.18.SNAPSHOT",org.
+ apache.log4j.config;uses:="org.apache.log4j.helpers,org.apache.log4j,
+ org.apache.log4j.spi";version="1.2.18.SNAPSHOT",org.apache.log4j.help
+ ers;uses:="org.apache.log4j,org.apache.log4j.spi,org.apache.log4j.pat
+ tern";version="1.2.18.SNAPSHOT",org.apache.log4j;uses:="org.apache.lo
+ g4j.spi,org.apache.log4j.helpers,org.apache.log4j.pattern,org.apache.
+ log4j.or,org.apache.log4j.config";version="1.2.18.SNAPSHOT",org.apach
+ e.log4j.or.jms;uses:="org.apache.log4j.helpers,javax.jms,org.apache.l
+ og4j.or";version="1.2.18.SNAPSHOT",org.apache.log4j.pattern;uses:="or
+ g.apache.log4j.helpers,org.apache.log4j.spi,org.apache.log4j,org.apac
+ he.log4j.or";version="1.2.18.SNAPSHOT",org.apache.log4j.or.sax;uses:=
+ "org.apache.log4j.or,org.xml.sax";version="1.2.18.SNAPSHOT",org.apach
+ e.log4j.nt;uses:="org.apache.log4j.helpers,org.apache.log4j,org.apach
+ e.log4j.spi";version="1.2.18.SNAPSHOT",org.apache.log4j.spi;uses:="or
+ g.apache.log4j,org.apache.log4j.helpers,com.ibm.uvm.tools,org.apache.
+ log4j.or";version="1.2.18.SNAPSHOT",org.apache.log4j.rewrite;uses:="o
+ rg.apache.log4j,org.apache.log4j.spi,org.apache.log4j.helpers,org.apa
+ che.log4j.xml,org.w3c.dom";version="1.2.18.SNAPSHOT",org.apache.log4j
+ .or;uses:="org.apache.log4j.helpers,org.apache.log4j.spi,org.apache.l
+ og4j";version="1.2.18.SNAPSHOT",org.apache.log4j.xml;uses:="javax.xml
+ .parsers,org.w3c.dom,org.xml.sax,org.apache.log4j.config,org.apache.l
+ og4j.helpers,org.apache.log4j,org.apache.log4j.spi,org.apache.log4j.o
+ r";version="1.2.18.SNAPSHOT",org.apache.log4j.varia;uses:="org.apache
+ .log4j.spi,org.apache.log4j,org.apache.log4j.helpers";version="1.2.18
+ .SNAPSHOT"
+Built-By: root
+Tool: Bnd-0.0.357
+Bundle-Name: Apache Log4j
+Created-By: Apache Maven Bundle Plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Bundle-Vendor: Apache Software Foundation
+Build-Jdk: 1.7.0_75
+Bundle-Version: 1.2.18.SNAPSHOT
+Eclipse-BuddyPolicy: registered
+Bnd-LastModified: 1425988757655
+Bundle-ManifestVersion: 2
+Bundle-Description: Apache Log4j 1.2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Import-Package: com.ibm.uvm.tools,com.sun.jdmk.comm,javax.jmdns;resolu
+ tion:=optional,javax.jms;resolution:=optional,javax.mail;resolution:=
+ optional,javax.mail.internet;resolution:=optional,javax.management,ja
+ vax.naming,javax.xml.parsers,org.w3c.dom,org.xml.sax
+Bundle-SymbolicName: org.apache.log4j
+Bundle-DocURL: http://logging.apache.org/log4j/1.2
+
+Name: org/apache/log4j/
+Implementation-Vendor: "Apache Software Foundation"
+DynamicImport-Package: *
+Implementation-Title: log4j
+Implementation-Version: 1.2.18-SNAPSHOT
+

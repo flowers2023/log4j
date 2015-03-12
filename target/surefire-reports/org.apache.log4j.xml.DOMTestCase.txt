@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.xml.DOMTestCase
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.314 sec
+test1(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.591 sec
+test4(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.317 sec
+testCategoryFactory1(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.069 sec
+testCategoryFactory2(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.047 sec
+testLoggerFactory1(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.026 sec
+testReset(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.048 sec
+testConfigureAndWatch(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.051 sec
+testOverrideSubst(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.045 sec
+testThrowableRenderer1(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.04 sec
+testJarURL(org.apache.log4j.xml.DOMTestCase)  Time elapsed: 0.029 sec

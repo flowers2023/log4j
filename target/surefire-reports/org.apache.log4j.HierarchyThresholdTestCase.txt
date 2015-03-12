@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.HierarchyThresholdTestCase
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.205 sec
+test1(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.09 sec
+test2(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.002 sec
+test3(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.002 sec
+test4(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.001 sec
+test5(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.002 sec
+test6(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.006 sec
+test7(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.008 sec
+test8(org.apache.log4j.HierarchyThresholdTestCase)  Time elapsed: 0.001 sec

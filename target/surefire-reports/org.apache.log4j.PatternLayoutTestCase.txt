@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.PatternLayoutTestCase
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.959 sec
+test2(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.269 sec
+test1(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.071 sec
+test3(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.118 sec
+test4(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.066 sec
+test5(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.044 sec
+test6(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.042 sec
+test7(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.041 sec
+test8(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.047 sec
+test9(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.032 sec
+test10(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.035 sec
+test11(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.033 sec
+test12(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.042 sec
+test13(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.036 sec
+test14(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.025 sec
+testMDC1(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.006 sec
+testMDCClear(org.apache.log4j.PatternLayoutTestCase)  Time elapsed: 0.007 sec

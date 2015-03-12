@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.LogManagerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.088 sec
+testDefaultConfigurationFile(org.apache.log4j.LogManagerTest)  Time elapsed: 0.017 sec
+testDefaultXmlConfigurationFile(org.apache.log4j.LogManagerTest)  Time elapsed: 0.001 sec
+testDefaultConfigurationKey(org.apache.log4j.LogManagerTest)  Time elapsed: 0 sec
+testConfiguratorClassKey(org.apache.log4j.LogManagerTest)  Time elapsed: 0.001 sec
+testDefaultInitOverrideKey(org.apache.log4j.LogManagerTest)  Time elapsed: 0 sec

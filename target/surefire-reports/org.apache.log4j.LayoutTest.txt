@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.LayoutTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.205 sec
+testLineSep(org.apache.log4j.LayoutTest)  Time elapsed: 0.024 sec
+testLineSepLen(org.apache.log4j.LayoutTest)  Time elapsed: 0 sec
+testGetContentType(org.apache.log4j.LayoutTest)  Time elapsed: 0.001 sec
+testIgnoresThrowable(org.apache.log4j.LayoutTest)  Time elapsed: 0.004 sec
+testGetHeader(org.apache.log4j.LayoutTest)  Time elapsed: 0 sec
+testGetFooter(org.apache.log4j.LayoutTest)  Time elapsed: 0 sec
+testFormat(org.apache.log4j.LayoutTest)  Time elapsed: 0.064 sec

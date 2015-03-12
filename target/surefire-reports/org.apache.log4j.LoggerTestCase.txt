@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.LoggerTestCase
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.327 sec
+testAppender1(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.065 sec
+testAppender2(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testAdditivity1(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.006 sec
+testAdditivity2(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.001 sec
+testAdditivity3(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.002 sec
+testDisable1(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.001 sec
+testRB1(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testRB2(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testTrace(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.107 sec
+testRB3(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testExists(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testHierarchy1(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.001 sec
+testTraceWithException(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.102 sec
+testIsTraceEnabled(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testAppenderEvent1(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.001 sec
+testAppenderEvent2(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testAppenderEvent3(org.apache.log4j.LoggerTestCase)  Time elapsed: 0 sec
+testAppenderEvent4(org.apache.log4j.LoggerTestCase)  Time elapsed: 0.001 sec

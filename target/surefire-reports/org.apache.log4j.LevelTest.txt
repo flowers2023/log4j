@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.LevelTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.108 sec
+testERROR(org.apache.log4j.LevelTest)  Time elapsed: 0.014 sec
+testWARN(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testINFO(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testDEBUG(org.apache.log4j.LevelTest)  Time elapsed: 0.001 sec
+testDotlessLowerI(org.apache.log4j.LevelTest)  Time elapsed: 0.002 sec
+testDottedLowerI(org.apache.log4j.LevelTest)  Time elapsed: 0.002 sec
+testSerializeINFO(org.apache.log4j.LevelTest)  Time elapsed: 0.016 sec
+testDeserializeINFO(org.apache.log4j.LevelTest)  Time elapsed: 0.002 sec
+testCustomLevelSerialization(org.apache.log4j.LevelTest)  Time elapsed: 0.006 sec
+testTraceInt(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testTrace(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testIntToTrace(org.apache.log4j.LevelTest)  Time elapsed: 0.003 sec
+testStringToTrace(org.apache.log4j.LevelTest)  Time elapsed: 0.001 sec
+testLevelExtendsPriority(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testOFF(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testFATAL(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testTRACE(org.apache.log4j.LevelTest)  Time elapsed: 0.001 sec
+testALL(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testSerialVersionUID(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testIntToAll(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testIntToFatal(org.apache.log4j.LevelTest)  Time elapsed: 0.001 sec
+testIntToOff(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testToLevelUnrecognizedInt(org.apache.log4j.LevelTest)  Time elapsed: 0 sec
+testToLevelNull(org.apache.log4j.LevelTest)  Time elapsed: 0 sec

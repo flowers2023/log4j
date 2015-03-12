@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.varia.ERFATestCase
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.188 sec
+testConstructor(org.apache.log4j.varia.ERFATestCase)  Time elapsed: 0.036 sec
+testRollover(org.apache.log4j.varia.ERFATestCase)  Time elapsed: 0.134 sec

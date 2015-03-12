@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.or.ORTestCase
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.099 sec
+test1(org.apache.log4j.or.ORTestCase)  Time elapsed: 0.024 sec
+test2(org.apache.log4j.or.ORTestCase)  Time elapsed: 0.01 sec
+test3(org.apache.log4j.or.ORTestCase)  Time elapsed: 0 sec
+test4(org.apache.log4j.or.ORTestCase)  Time elapsed: 0.001 sec
+test5(org.apache.log4j.or.ORTestCase)  Time elapsed: 0 sec
+test6(org.apache.log4j.or.ORTestCase)  Time elapsed: 0 sec
+test7(org.apache.log4j.or.ORTestCase)  Time elapsed: 0.001 sec
+test8(org.apache.log4j.or.ORTestCase)  Time elapsed: 0 sec
+test9(org.apache.log4j.or.ORTestCase)  Time elapsed: 0.004 sec
+test10(org.apache.log4j.or.ORTestCase)  Time elapsed: 0 sec

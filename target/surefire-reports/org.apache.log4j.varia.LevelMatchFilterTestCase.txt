@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.log4j.varia.LevelMatchFilterTestCase
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.158 sec
+accept(org.apache.log4j.varia.LevelMatchFilterTestCase)  Time elapsed: 0.115 sec
+deny(org.apache.log4j.varia.LevelMatchFilterTestCase)  Time elapsed: 0.004 sec
