@@ -1,33 +1,33 @@
-12 Mar 2015 03:45:05,422 [main] FATAL ERR - Message 0
-12 Mar 2015 03:45:05,423 [main] ERROR ERR - Message 1
-12 Mar 2015 03:45:05,423 [main] FATAL INF - Message 2
-12 Mar 2015 03:45:05,423 [main] ERROR INF - Message 3
-12 Mar 2015 03:45:05,423 [main] WARN INF - Message 4
-12 Mar 2015 03:45:05,423 [main] INFO INF - Message 5
-12 Mar 2015 03:45:05,423 [main] FATAL INF.UNDEF - Message 6
-12 Mar 2015 03:45:05,423 [main] ERROR INF.UNDEF - Message 7
-12 Mar 2015 03:45:05,423 [main] WARN INF.UNDEF - Message 8
-12 Mar 2015 03:45:05,423 [main] INFO INF.UNDEF - Message 9
-12 Mar 2015 03:45:05,423 [main] FATAL INF.ERR - Message 10
-12 Mar 2015 03:45:05,424 [main] ERROR INF.ERR - Message 11
-12 Mar 2015 03:45:05,424 [main] FATAL INF.ERR.UNDEF - Message 12
-12 Mar 2015 03:45:05,424 [main] ERROR INF.ERR.UNDEF - Message 13
-12 Mar 2015 03:45:05,424 [main] FATAL DEB - Message 14
-12 Mar 2015 03:45:05,424 [main] ERROR DEB - Message 15
-12 Mar 2015 03:45:05,424 [main] WARN DEB - Message 16
-12 Mar 2015 03:45:05,424 [main] INFO DEB - Message 17
-12 Mar 2015 03:45:05,424 [main] DEBUG DEB - Message 18
-12 Mar 2015 03:45:05,424 [main] FATAL TRC - Message 19
-12 Mar 2015 03:45:05,424 [main] ERROR TRC - Message 20
-12 Mar 2015 03:45:05,424 [main] WARN TRC - Message 21
-12 Mar 2015 03:45:05,424 [main] INFO TRC - Message 22
-12 Mar 2015 03:45:05,424 [main] DEBUG TRC - Message 23
-12 Mar 2015 03:45:05,424 [main] TRACE TRC - Message 24
-12 Mar 2015 03:45:05,424 [main] FATAL UNDEF - Message 25
-12 Mar 2015 03:45:05,424 [main] ERROR UNDEF - Message 26
-12 Mar 2015 03:45:05,424 [main] WARN UNDEF - Message 27
-12 Mar 2015 03:45:05,424 [main] INFO UNDEF - Message 28
-12 Mar 2015 03:45:05,424 [main] DEBUG UNDEF - Message 29
+12 Mar 2015 04:36:05,141 [main] FATAL ERR - Message 0
+12 Mar 2015 04:36:05,142 [main] ERROR ERR - Message 1
+12 Mar 2015 04:36:05,142 [main] FATAL INF - Message 2
+12 Mar 2015 04:36:05,142 [main] ERROR INF - Message 3
+12 Mar 2015 04:36:05,142 [main] WARN INF - Message 4
+12 Mar 2015 04:36:05,142 [main] INFO INF - Message 5
+12 Mar 2015 04:36:05,142 [main] FATAL INF.UNDEF - Message 6
+12 Mar 2015 04:36:05,142 [main] ERROR INF.UNDEF - Message 7
+12 Mar 2015 04:36:05,142 [main] WARN INF.UNDEF - Message 8
+12 Mar 2015 04:36:05,142 [main] INFO INF.UNDEF - Message 9
+12 Mar 2015 04:36:05,142 [main] FATAL INF.ERR - Message 10
+12 Mar 2015 04:36:05,142 [main] ERROR INF.ERR - Message 11
+12 Mar 2015 04:36:05,143 [main] FATAL INF.ERR.UNDEF - Message 12
+12 Mar 2015 04:36:05,143 [main] ERROR INF.ERR.UNDEF - Message 13
+12 Mar 2015 04:36:05,143 [main] FATAL DEB - Message 14
+12 Mar 2015 04:36:05,143 [main] ERROR DEB - Message 15
+12 Mar 2015 04:36:05,143 [main] WARN DEB - Message 16
+12 Mar 2015 04:36:05,143 [main] INFO DEB - Message 17
+12 Mar 2015 04:36:05,143 [main] DEBUG DEB - Message 18
+12 Mar 2015 04:36:05,143 [main] FATAL TRC - Message 19
+12 Mar 2015 04:36:05,143 [main] ERROR TRC - Message 20
+12 Mar 2015 04:36:05,143 [main] WARN TRC - Message 21
+12 Mar 2015 04:36:05,143 [main] INFO TRC - Message 22
+12 Mar 2015 04:36:05,143 [main] DEBUG TRC - Message 23
+12 Mar 2015 04:36:05,143 [main] TRACE TRC - Message 24
+12 Mar 2015 04:36:05,143 [main] FATAL UNDEF - Message 25
+12 Mar 2015 04:36:05,143 [main] ERROR UNDEF - Message 26
+12 Mar 2015 04:36:05,143 [main] WARN UNDEF - Message 27
+12 Mar 2015 04:36:05,143 [main] INFO UNDEF - Message 28
+12 Mar 2015 04:36:05,143 [main] DEBUG UNDEF - Message 29
 java.lang.Exception: Just testing.
 	at org.apache.log4j.MinimumTestCase.common(MinimumTestCase.java:171)
 	at org.apache.log4j.MinimumTestCase.ttcc(MinimumTestCase.java:89)
@@ -57,4 +57,4 @@ java.lang.Exception: Just testing.
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:290)
 	at org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1017)
-12 Mar 2015 03:45:05,428 [main] INFO INF - Messages should bear numbers 0 through 29.
+12 Mar 2015 04:36:05,149 [main] INFO INF - Messages should bear numbers 0 through 29.

@@ -326,7 +326,7 @@ public class Category implements AppenderAttachable {
         return;
     }
     if(Level.ERROR.isGreaterOrEqual(this.getEffectiveLevel())) {
-        forcedLog(FQCN, Level.ERROR, message, t);
+        forcedLog(FQCN, Level.ERROR, message+"=track:"+t, null);
     }
 
   }
