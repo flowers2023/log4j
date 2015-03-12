@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.log4j.helpers.CyclicBufferTestCase
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.101 sec
-test0(org.apache.log4j.helpers.CyclicBufferTestCase)  Time elapsed: 0.005 sec
-test1(org.apache.log4j.helpers.CyclicBufferTestCase)  Time elapsed: 0.026 sec
-testResize(org.apache.log4j.helpers.CyclicBufferTestCase)  Time elapsed: 0.001 sec

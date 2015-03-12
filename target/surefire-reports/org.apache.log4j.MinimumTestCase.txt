@@ -1,6 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.log4j.MinimumTestCase
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.245 sec
-simple(org.apache.log4j.MinimumTestCase)  Time elapsed: 0.15 sec
-ttcc(org.apache.log4j.MinimumTestCase)  Time elapsed: 0.056 sec

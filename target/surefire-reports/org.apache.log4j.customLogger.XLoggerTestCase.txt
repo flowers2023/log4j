@@ -1,6 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.log4j.customLogger.XLoggerTestCase
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.351 sec
-test1(org.apache.log4j.customLogger.XLoggerTestCase)  Time elapsed: 0.239 sec
-test2(org.apache.log4j.customLogger.XLoggerTestCase)  Time elapsed: 0.038 sec
