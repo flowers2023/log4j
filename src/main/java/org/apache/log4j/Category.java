@@ -326,7 +326,7 @@ public class Category implements AppenderAttachable {
         return;
     }
     if(Level.ERROR.isGreaterOrEqual(this.getEffectiveLevel())) {
-        forcedLog(FQCN, Level.ERROR, message+"=track:"+t, null);
+        forcedLog(FQCN, Level.ERROR, message, t);
     }
 
   }
@@ -400,9 +400,24 @@ public class Category implements AppenderAttachable {
      without further checks.  */
   protected
   void forcedLog(String fqcn, Priority level, Object message, Throwable t) {
-    callAppenders(new LoggingEvent(fqcn, this, level, message, t));
+    if(t == null)
+    {
+      callAppenders(new LoggingEvent(fqcn, this, level, message, null));
+    }
+    else{
+      String msg = message.toString()+"exception_msg:</br>&nbsp;&nbsp;&nbsp;&nbsp;"+getTrowable(t);
+      callAppenders(new LoggingEvent(fqcn, this, level, msg, null));
+    }
   }
 
+  private String getTrowable(Throwable t){
+    String msg = "";
+    StackTraceElement[] stackArray = t.getStackTrace();
+    for(int i = 0; i < stackArray.length; i++) {
+      msg += stackArray[i].toString() + "</br>&nbsp;&nbsp;&nbsp;&nbsp;";
+    }
+    return msg;
+  }
 
   /**
      Get the additivity flag for this Category instance.
